@@ -1,3 +1,10 @@
 *.pyc
 __init__.py
 additional.condorConf
+
+bin/MadGraph5_aMCatNLO/13TeV/HZaTo2l2g_*
+bin/MadGraph5_aMCatNLO/13p6TeV/HZaTo2l2g_*
+bin/MadGraph5_aMCatNLO/wplustest_4f_LO
+*.tar.xz
+*.log
+bin/MadGraph5_aMCatNLO/HZaTo2l2g_M*
