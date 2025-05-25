@@ -8,3 +8,4 @@ bin/MadGraph5_aMCatNLO/wplustest_4f_LO
 *.tar.xz
 *.log
 bin/MadGraph5_aMCatNLO/HZaTo2l2g_M*
+bin/MadGraph5_aMCatNLO/13p6TeV
